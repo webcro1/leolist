@@ -170,7 +170,7 @@
     <!-- Top Up Section -->
     <div class="px-4 py-4">
       <h3 class="text-lg sm:text-xl font-semibold mb-4">
-        Top up $300 in LTC and get an extra $300:
+        Top up $75 in LTC and get an extra $75:
       </h3>
 
       <!-- Payment Options -->
