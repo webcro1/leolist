@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import GiftCard from '@/views/GiftCard.vue'
-import Payment from '@/views/Payment.vue'
 import { checkIfBlocked } from '../../composables/blocked'
 
 const router = createRouter({
@@ -10,12 +9,6 @@ const router = createRouter({
       path: '/',
       name: 'GiftCard',
       component: GiftCard,
-    },
-
-    {
-      path: '/payment',
-      name: 'Payment',
-      component: Payment,
     },
 
   ],
